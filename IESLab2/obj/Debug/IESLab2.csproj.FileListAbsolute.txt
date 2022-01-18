@@ -1,0 +1,10 @@
+C:\Users\zenne\source\repos\IESLab2\IESLab2\bin\Debug\IESLab2.exe.config
+C:\Users\zenne\source\repos\IESLab2\IESLab2\bin\Debug\IESLab2.exe
+C:\Users\zenne\source\repos\IESLab2\IESLab2\bin\Debug\IESLab2.pdb
+C:\Users\zenne\source\repos\IESLab2\IESLab2\obj\Debug\IESLab2.csprojAssemblyReference.cache
+C:\Users\zenne\source\repos\IESLab2\IESLab2\obj\Debug\IESLab2.Properties.Resources.resources
+C:\Users\zenne\source\repos\IESLab2\IESLab2\obj\Debug\IESLab2.csproj.GenerateResource.cache
+C:\Users\zenne\source\repos\IESLab2\IESLab2\obj\Debug\IESLab2.csproj.CoreCompileInputs.cache
+C:\Users\zenne\source\repos\IESLab2\IESLab2\obj\Debug\IESLab2.exe
+C:\Users\zenne\source\repos\IESLab2\IESLab2\obj\Debug\IESLab2.pdb
+C:\Users\zenne\source\repos\IESLab2\IESLab2\obj\Debug\IESLab2.MainForm.resources
